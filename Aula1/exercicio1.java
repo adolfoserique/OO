@@ -4,7 +4,7 @@
 
 int main()
 {
-	const int MAX = 3;
+    const int MAX = 3;
     float altura_1, altura_2, altura_3;
     float media;
     
